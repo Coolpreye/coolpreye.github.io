@@ -1,0 +1,58 @@
+* {
+	text-align: center;
+}
+
+body {
+	background-color: darkgrey;
+}
+
+h1 {
+	position: relative;
+	right: 210px;
+	font-weight: bold;
+	font-family: fantasy;
+}
+
+.container {
+	padding: 20px;
+	background-color: white;
+	margin-left: 400px;
+	margin-right: 400px;
+	
+
+}
+
+label {
+	position: relative;
+	right: 206px;
+}
+
+.jot {
+	position: relative;
+	right: 218px;
+}
+
+.pot {
+	width: 500px;
+	height: 30px;
+}
+
+.slot {
+	position: relative;
+	right: 189px;
+	margin: 20px;
+	background-color: grey;
+	width: 150px;
+	height: 40px;
+	margin-left: 40px;
+}
+
+footer {
+	background-color: lightgrey;
+	margin: 30px 600px 0px 600px;
+	width: 150px;
+	height: 40px;
+	padding-top: 20px;
+	font-family: Georgia;
+
+}
